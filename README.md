@@ -4,7 +4,7 @@ This project demonstrates the implementation of the Q-learning algorithm (reinfo
 
 ## Project Description
 
-In Jupyter Notebook `4. Maze.ipynb`, an agent is implemented that learns to navigate the maze, avoiding “walls” (cells with a large negative penalty) and striving for the “goal” (a cell with a high reward).
+In Jupyter Notebook `Q-Learning-labyrinth.ipynb`, an agent is implemented that learns to navigate the maze, avoiding “walls” (cells with a large negative penalty) and striving for the “goal” (a cell with a high reward).
 
 ### How it works
 
